@@ -2,9 +2,9 @@
 
 ## A full stack Software Engineer
 
-- 🌱 I’m currently learning **Three.js** and **Electron.js**
+- 🌱 I’m currently learning **Electron.js**
 - 👯 I’m looking forward to collaborating with other programmers
-- 🥅 2022 Goals: Learn 3D development (web && gaming)
+- 🥅 2023 Goals: Enhance my NodeJS development skills and a bit of DevOps
 - ⚡ Fun fact: I'm a Hardware Programmer 🤖 (hobbyst), Cyber Security 🛡️ enthusiast and I'm good at soccer ⚽
 
 ### Connect with me:
